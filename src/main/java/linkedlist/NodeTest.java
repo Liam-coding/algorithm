@@ -1,7 +1,7 @@
 package linkedlist;
 
 /**
- * @Author: Jialei Liu
+ * @Author: Liam
  * @Date: 8/9/2022 4:46 PM
  */
 public class NodeTest {
